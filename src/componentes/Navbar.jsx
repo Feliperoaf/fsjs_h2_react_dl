@@ -7,7 +7,7 @@ const Navbar = () => {
   const navButton = "border rounded-xl m-2 px-3 py-1"
 
   return (
-    <div className=' bg-black/88 flex items-center justify-between p-2'>
+    <div className='w-auto bg-black/88 flex items-center justify-between p-2'>
       <div className='flex items-center text-white'>
         <h4 className='flex items-center mr-3 ml-4 font-bold'>Pizzería Mamma Mia!</h4>
         <button className={navButton}>🍕Home</button>
