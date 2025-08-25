@@ -2,8 +2,7 @@
 
 Entrega del Hito 2: Estado de los componentes y eventos.
 
-Se trabajó el manejo de estado con `useState`, validaciones básicas y eventos en formularios y botones, además de renderizado condicional en la barra de navegación.
-
+Se trabajó el manejo de estado con `useState`, validaciones básicas y eventos en formularios y botones.
 ---
 
 ## ✨ Funcionalidades
@@ -19,24 +18,6 @@ Se trabajó el manejo de estado con `useState`, validaciones básicas y eventos 
 - [React](https://reactjs.org/) + [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - JavaScript (ES6+)
-
----
-
-## 🧭 Navegación en esta entrega
-- **Sin router aún:** Para visualizar pantallas, alterna los componentes en `src/App.jsx` comentando/descomentando `Home`, `Register` y `Login`.
-- **Token y total:** En `src/componentes/Navbar.jsx` se usa `token = true` y `total = 25000` de manera simulada para el renderizado condicional.
-
----
-
-## ▶️ Cómo ejecutar
-- **Instalar dependencias:** `npm install`
-- **Modo desarrollo:** `npm run dev`
-- **Build de producción:** `npm run build`
-
----
-
-## 📸 Vista previa
-![Vista previa del proyecto](./public/preview.jpeg)
 
 ---
 
